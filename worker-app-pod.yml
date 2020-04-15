@@ -9,4 +9,4 @@ metadata:
 spec:
   containers:
   - name: worker-app
-    images: dockersamples/examplevotingapp_worker
+    image: dockersamples/examplevotingapp_worker
